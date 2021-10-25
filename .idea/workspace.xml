@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa2573ad-03f2-4313-ba81-d902c8471ca6" name="Default Changelist" comment="" />
+    <list default="true" id="fa2573ad-03f2-4313-ba81-d902c8471ca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/extent.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/features/test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/details/SerenityRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/details/SerenityRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6489cb15744600cd2d065575d83343ce92b90fa45c390abf4467424e0dd0c3b4.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/6489cb15744600cd2d065575d83343ce92b90fa45c390abf4467424e0dd0c3b4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6489cb15744600cd2d065575d83343ce92b90fa45c390abf4467424e0dd0c3b4.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/6489cb15744600cd2d065575d83343ce92b90fa45c390abf4467424e0dd0c3b4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-6489cb15744600cd2d065575d83343ce92b90fa45c390abf4467424e0dd0c3b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-6489cb15744600cd2d065575d83343ce92b90fa45c390abf4467424e0dd0c3b4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f0f2ec5e68dc02949a17bb21cb8062bda39b79a1003a927a199c48b111e5cf6a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/f0f2ec5e68dc02949a17bb21cb8062bda39b79a1003a927a199c48b111e5cf6a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f0f2ec5e68dc02949a17bb21cb8062bda39b79a1003a927a199c48b111e5cf6a.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/f0f2ec5e68dc02949a17bb21cb8062bda39b79a1003a927a199c48b111e5cf6a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/details/SerenityRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/details/SerenityRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/test.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,21 +34,18 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cgAv97xLf8Lx7lBgKsTlgGOejO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -60,6 +77,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,38 +91,16 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="496" y="225" key="#Project_Structure" timestamp="1590955245040">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="496" y="225" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1590955245040" />
-    <state x="634" y="343" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1590952284627">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="634" y="343" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1590952284627" />
-    <state width="1750" height="449" key="GridCell.Tab.0.bottom" timestamp="1590955517325">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="449" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1590955517325" />
-    <state width="1750" height="449" key="GridCell.Tab.0.center" timestamp="1590955517325">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="449" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1590955517325" />
-    <state width="1750" height="449" key="GridCell.Tab.0.left" timestamp="1590955517324">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="449" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1590955517324" />
-    <state width="1750" height="449" key="GridCell.Tab.0.right" timestamp="1590955517325">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="449" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1590955517325" />
-    <state x="679" y="345" key="chooseDestDirectoryDialog" timestamp="1590952273753">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="679" y="345" key="chooseDestDirectoryDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1590952273753" />
-    <state x="653" y="488" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1590951592697">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="653" y="488" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1590951592697" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
