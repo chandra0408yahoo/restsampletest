@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-10-26T12:13:15.239Z",
+        "start_timestamp": "2021-10-26T13:27:09.503Z",
         "line": 4,
         "name": "First test",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2219476669,
+              "duration": 2172544499,
               "status": "passed"
             },
             "line": 5,
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-10-26T12:13:17.565Z",
+        "start_timestamp": "2021-10-26T13:27:11.789Z",
         "line": 8,
         "name": "post data",
         "description": "",
@@ -41,7 +41,7 @@
         "steps": [
           {
             "result": {
-              "duration": 247056063,
+              "duration": 255308722,
               "status": "passed"
             },
             "line": 9,
