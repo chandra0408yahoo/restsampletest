@@ -12,12 +12,11 @@ import static org.jsoup.nodes.Document.OutputSettings.Syntax.html;
 @CucumberOptions(
         plugin ={"pretty","html:target/cucumber","html:target/cucumber-html-reports", "json:target/cucumber-html-reports/cucumber.json"
                 },
-       // plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
         features="src/test/Resources/features",
         tags="@test")
 
 
-public class SerenityRunner extends BaseClass {
+public class SerenityRunner  {
 
 
 
