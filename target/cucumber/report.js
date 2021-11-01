@@ -34,14 +34,4 @@ formatter.scenario({
     }
   ]
 });
-formatter.step({
-  "name": "i try to post data",
-  "keyword": "Given "
-});
-formatter.match({
-  "location": "StepsForFeatures.iTryToPostData()"
-});
-formatter.result({
-  "status": "passed"
-});
 });

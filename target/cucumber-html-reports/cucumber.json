@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-10-26T13:27:09.503Z",
+        "start_timestamp": "2021-10-29T12:27:24.258Z",
         "line": 4,
         "name": "First test",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2172544499,
+              "duration": 2877160764,
               "status": "passed"
             },
             "line": 5,
@@ -31,27 +31,14 @@
         ]
       },
       {
-        "start_timestamp": "2021-10-26T13:27:11.789Z",
+        "start_timestamp": "2021-10-29T12:27:27.265Z",
         "line": 8,
         "name": "post data",
         "description": "",
         "id": "first--test-rest-with-cucumber;post-data",
         "type": "scenario",
         "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 255308722,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "i try to post data",
-            "match": {
-              "location": "StepsForFeatures.iTryToPostData()"
-            },
-            "keyword": "Given "
-          }
-        ],
+        "steps": [],
         "tags": [
           {
             "name": "@test"

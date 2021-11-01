@@ -14,6 +14,7 @@ public class StudentSerenitySteps {
     public Response response;
     public String baseUrl="https://reqres.in";
     private DataGenerator dataGenerator = new DataGenerator();
+    public String firstname;
 
     public Response getallusers(){
 
@@ -33,6 +34,15 @@ public class StudentSerenitySteps {
 
 
     }
+
+
+    public void printdata(){
+        System.out.println( response.then().extract().asString()+"<<REPNSE");
+        firstname = response.then().extract().jsonPath().get("data.first_name").toString();
+        assertThat(firstname).isEqualTo("Janet");
+    }
+
+
 
 
 

@@ -6,6 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="fa2573ad-03f2-4313-ba81-d902c8471ca6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/features/test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/details/StepsForFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/details/StepsForFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/util/StudentSerenitySteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/StudentSerenitySteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/609a59812f7e5ca290c42835b02c4ce68eaa35790385423f97be6f031d49f2f2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/609a59812f7e5ca290c42835b02c4ce68eaa35790385423f97be6f031d49f2f2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-d7feb335ec70199d86366725114b5f63ce43202f2f282d3afe94594f5b017c80.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-d7feb335ec70199d86366725114b5f63ce43202f2f282d3afe94594f5b017c80.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d7feb335ec70199d86366725114b5f63ce43202f2f282d3afe94594f5b017c80.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d7feb335ec70199d86366725114b5f63ce43202f2f282d3afe94594f5b017c80.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d7feb335ec70199d86366725114b5f63ce43202f2f282d3afe94594f5b017c80.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d7feb335ec70199d86366725114b5f63ce43202f2f282d3afe94594f5b017c80.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/details/StepsForFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/details/StepsForFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/util/StudentSerenitySteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/util/StudentSerenitySteps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

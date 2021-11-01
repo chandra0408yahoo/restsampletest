@@ -1,6 +1,7 @@
 package details;
 
 import cucumber.api.java.en.Given;
+import io.cucumber.java.en.Then;
 import net.thucydides.core.annotations.Steps;
 import util.StudentSerenitySteps;
 
@@ -14,6 +15,7 @@ public class StepsForFeatures {
     public void retreive_all_data_about_students()  {
 
         step.getallusers();
+        step.printdata();
         step.verifyThatResponseWasOk();
 
     }
@@ -24,4 +26,5 @@ public class StepsForFeatures {
         step.postdata();
         step.verifyThatResponseWasCreated();
     }
+
 }
