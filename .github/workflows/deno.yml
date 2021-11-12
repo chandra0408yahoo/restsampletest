@@ -31,6 +31,6 @@ jobs:
         username: "3183DA708B354F50B5B6997DEC3FC20C"
         password: "b640ff38a1c670d5649043f2c5ce65cf9a99a7c5a3ded56949c0d719af2e44a9"
         testFormat: "junit"
-        testPaths: "**/cucumber/*.xml"
+        testPaths: "**/target/cucumber/index.html"
         projectKey: "TRYX"
         testPlanKey: ${{ github.event.inputs.test_plan_key }}
