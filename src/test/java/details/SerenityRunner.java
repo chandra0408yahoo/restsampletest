@@ -10,8 +10,8 @@ import static org.jsoup.nodes.Document.OutputSettings.Syntax.html;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
-        plugin ={"pretty","html:target/cucumber","html:target/cucumber-html-reports", "json:target/cucumber-html-reports/cucumber.json"
-                },
+        /*plugin ={"pretty","html:target/cucumber","html:target/cucumber-html-reports", "json:target/cucumber-html-reports/cucumber.json"
+                },*/
         features="src/test/Resources/features",
         tags="@test")
 
