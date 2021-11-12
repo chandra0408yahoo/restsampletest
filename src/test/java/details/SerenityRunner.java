@@ -13,7 +13,7 @@ import static org.jsoup.nodes.Document.OutputSettings.Syntax.html;
         /*plugin ={"pretty","html:target/cucumber","html:target/cucumber-html-reports", "json:target/cucumber-html-reports/cucumber.json"
                 },*/
         features="src/test/Resources/features",
-        tags="@test")
+        tags="@tp1")
 
 
 public class SerenityRunner  {

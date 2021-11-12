@@ -1,0 +1,36 @@
+name: CI (Jira cloud example with GH action, report results to Test Plan - demo)
+on:
+  workflow_dispatch:
+    inputs:
+      test_plan_key:
+        description: 'Test Plan issue key'
+        required: false
+        default: ''
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+        
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Java
+      uses: actions/setup-java@v1
+      with:
+        java-version: '1.8'  
+    - name: Cache Maven packages
+      uses: actions/cache@v2
+      with:
+        path: ~/.m2
+        key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
+        restore-keys: ${{ runner.os }}-m2
+    - name: Build with Maven
+      run: mvn clean compile test --file pom.xml
+    - name: Submit results to Xray
+      uses: mikepenz/xray-action@v0.9.4
+      with:
+        username: "3183DA708B354F50B5B6997DEC3FC20C"
+        password: "b640ff38a1c670d5649043f2c5ce65cf9a99a7c5a3ded56949c0d719af2e44a9"
+        testFormat: "junit"
+        testPaths: "/target/cucumber/index.html"
+        projectKey: "TRYX"
+        testPlanKey: ${{ github.event.inputs.test_plan_key }}

@@ -1,10 +1,10 @@
 Feature: First  test Rest with cucumber
 
-  @test
+  @tp1
   Scenario: First test
     Given retreive all data about students
 
-  @test
+  @tp1
     Scenario: post data
 
 
